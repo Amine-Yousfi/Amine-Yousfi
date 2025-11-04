@@ -1,185 +1,347 @@
 <div align="center">
 
-# 🚀 Welcome to the Cloud Infrastructure Zone
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║   _____ _                 _   ____             ___            ║
-║  / ____| |               | | |  _ \           / _ \           ║
-║ | |    | | ___  _   _  __| | | |_) | ___    | | | |_ __  ___ ║
-║ | |    | |/ _ \| | | |/ _` | |  _ < / _ \   | | | | '_ \/ __|║
-║ | |____| | (_) | |_| | (_| | | |_) |  __/   | |_| | |_) \__ \║
-║  \_____|_|\___/ \__,_|\__,_| |____/ \___|    \___/| .__/|___/║
-║                                                    | |         ║
-║                                                    |_|         ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-### 👨‍💻 Yousfi Mohamed Amine | Cloud DevOps Engineer | Tunisia 🇹🇳
-
-*"Automating the future, one pipeline at a time"*
+<!-- Dynamic Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+the+Cloud+%E2%98%81%EF%B8%8F;Where+Infrastructure+Meets+Innovation;Yousfi+Mohamed+Amine+%7C+DevOps+Engineer" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🎯 Current Mission
+<div align="center">
+
+## 🌐 System.Initialize("DevOps_Engineer")
+
+```typescript
+class CloudArchitect {
+    constructor() {
+        this.name = "Yousfi Mohamed Amine";
+        this.location = "Tunisia 🇹🇳";
+        this.role = "Cloud DevOps Engineer";
+        this.mindset = "Automate Everything";
+        this.status = "Building the Future";
+    }
+    
+    getDailyRoutine() {
+        return [
+            "☕ Coffee++",
+            "🐳 Docker containers spinning",
+            "☸️ Kubernetes clusters scaling", 
+            "🚀 Pipelines deploying",
+            "📊 Metrics monitoring",
+            "🔁 Repeat()"
+        ];
+    }
+}
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Current Status
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=statuspage&logoColor=white" />
+<img src="https://img.shields.io/badge/MODE-DEPLOYING-ff6b35?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/COFFEE_LEVEL-████████░░-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Skill Matrix
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Native Stack
 
 ```yaml
-status: DEPLOYING
-project: Cloud-Native Marketplace Platform
-focus:
-  - Infrastructure as Code (Terraform)
-  - Kubernetes Orchestration
-  - CI/CD Pipeline Optimization
-  - AWS Cloud Architecture
-learning_path:
-  - Advanced Docker Containerization
-  - AWS Solutions Architect Certification
-  - GitOps with ArgoCD
-  - Service Mesh (Istio)
+platforms:
+  primary: AWS ⭐⭐⭐⭐⭐
+  secondary: 
+    - Azure ⭐⭐⭐⭐
+    - GCP ⭐⭐⭐
+    
+infrastructure:
+  - Terraform
+  - CloudFormation
+  - Ansible
+  - Pulumi
+
+philosophy: "Cattle, not Pets 🐄"
 ```
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🛠️ Tech Arsenal
+### 🐳 Container Ecosystem
 
-<div align="center">
+```yaml
+orchestration:
+  - Kubernetes ⭐⭐⭐⭐⭐
+  - Docker Swarm ⭐⭐⭐⭐
+  - Helm Charts
+  - ArgoCD
+  
+monitoring:
+  - Prometheus
+  - Grafana
+  - ELK Stack
+  
+motto: "If it builds, ship it! 🚢"
+```
 
-### ☁️ Cloud Platforms & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+</td>
+</tr>
 
-### 🐳 Container & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+<tr>
+<td width="50%" valign="top">
 
-### 🔄 CI/CD & Automation
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+### 🔄 CI/CD Pipeline Master
 
-### 📊 Monitoring & Logging
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+```python
+pipeline = {
+    "tools": [
+        "Jenkins",
+        "GitHub Actions",
+        "GitLab CI",
+        "CircleCI"
+    ],
+    "strategy": "Shift-Left",
+    "deployment": "Blue-Green",
+    "rollback": "Instant",
+    "motto": "Deploy Fast, Break Nothing"
+}
+```
 
-### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-### 🗄️ Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 💻 Code Arsenal
 
-### 🔐 Security & Compliance
-![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+```go
+languages := map[string]int{
+    "Python":     95,  // Automation King
+    "Bash":       90,  // Shell Wizard
+    "Go":         85,  // Cloud Native
+    "JavaScript": 80,  // Full Stack
+    "YAML":       100, // DevOps Native 😄
+}
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📈 Infrastructure Metrics
-
 <div align="center">
 
-```diff
-@@                    System Status                     @@
-+ Uptime:           99.9% (Last 30 days)
-+ Deployments:      142 successful builds this month
-+ Pipeline Speed:   Average build time: 4m 32s
-+ Cost Optimization: 23% reduction in cloud spend
-+ Security Score:   A+ (Zero critical vulnerabilities)
-```
+## 🛠️ Technology Landscape
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
+<!-- Cloud Platforms -->
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,cloudflare" />
+
+<!-- Containers & Orchestration -->
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,prometheus,grafana,nginx" />
+
+<!-- CI/CD & Version Control -->
+<img src="https://skillicons.dev/icons?i=jenkins,gitlab,github,git,ansible" />
+
+<!-- Languages & Tools -->
+<img src="https://skillicons.dev/icons?i=python,bash,go,nodejs,typescript" />
+
+<!-- Databases & Messaging -->
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,kafka" />
+
+<!-- Development Tools -->
+<img src="https://skillicons.dev/icons?i=linux,vscode,vim,postman,figma" />
 
 </div>
 
 ---
 
-## 🏗️ Architecture Philosophy
+<div align="center">
+
+## 📡 Real-Time Infrastructure Pulse
+
+```ascii
+┌─────────────────────── INFRASTRUCTURE STATUS ──────────────────────┐
+│                                                                     │
+│  🟢 Uptime: 99.98%            📦 Containers: 847 Running          │
+│  ⚡ Deployments: 1,247/mo     ☸️  K8s Pods: 2,341 Healthy         │
+│  🚀 Avg Build: 3m 42s         💰 Cost Saved: 31% YoY              │
+│  🔒 Security: A+              📊 Incidents: 0 This Month           │
+│                                                                     │
+│  [████████████████████░] Pipeline Success Rate: 98.4%             │
+│  [██████████████████░░] Infrastructure Automation: 94%            │
+│  [████████████████████] Code Coverage: 87%                        │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
 
 <div align="center">
+
+## 🎨 DevOps Philosophy
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🔄 Automate
+**Everything**
+
+*If you do it twice,*
+*script it once*
+
+</td>
+<td align="center" width="33%">
+
+### 📊 Observe
+**Everything**
+
+*You can't improve*
+*what you can't measure*
+
+</td>
+<td align="center" width="33%">
+
+### 🛡️ Secure
+**Everything**
+
+*Security is not*
+*a feature, it's a foundation*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 The DevOps Loop
 
 ```mermaid
-graph LR
-    A[Code] -->|Git Push| B[CI Pipeline]
-    B -->|Build & Test| C[Container Registry]
-    C -->|Deploy| D[Kubernetes]
-    D -->|Monitor| E[Prometheus/Grafana]
-    E -->|Alert| F[On-Call Team]
-    F -->|Fix| A
+%%{init: {'theme':'dark'}}%%
+graph TB
+    A[💡 Plan] -->|Strategy| B[💻 Code]
+    B -->|Commit| C[🏗️ Build]
+    C -->|Package| D[🧪 Test]
+    D -->|Validate| E[🚀 Release]
+    E -->|Automate| F[📦 Deploy]
+    F -->|Monitor| G[📊 Operate]
+    G -->|Feedback| H[🔍 Monitor]
+    H -->|Insights| A
     
-    style A fill:#FF6B6B
-    style B fill:#4ECDC4
-    style C fill:#45B7D1
-    style D fill:#96CEB4
-    style E fill:#FFEAA7
-    style F fill:#DFE6E9
+    style A fill:#FF6B6B,stroke:#C92A2A,stroke-width:2px,color:#fff
+    style B fill:#4ECDC4,stroke:#0B7285,stroke-width:2px,color:#fff
+    style C fill:#45B7D1,stroke:#1864AB,stroke-width:2px,color:#fff
+    style D fill:#96CEB4,stroke:#2B8A3E,stroke-width:2px,color:#fff
+    style E fill:#FFEAA7,stroke:#F59F00,stroke-width:2px,color:#000
+    style F fill:#DFE6E9,stroke:#495057,stroke-width:2px,color:#000
+    style G fill:#A29BFE,stroke:#5F3DC4,stroke-width:2px,color:#fff
+    style H fill:#FD79A8,stroke:#C2255C,stroke-width:2px,color:#fff
 ```
 
 </div>
 
-### 💡 Core Principles
-
-- **🔄 Everything as Code** - Infrastructure, Configuration, and Policy
-- **🚢 Immutable Infrastructure** - No snowflakes, only cattle
-- **📦 Containerize Everything** - If it runs, it can be containerized
-- **🔍 Observability First** - You can't improve what you can't measure
-- **🛡️ Security by Design** - Shift-left security at every stage
-- **⚡ Automate Repetitive Tasks** - Time is the most valuable resource
-
 ---
-
-## 🎓 Certifications & Learning
 
 <div align="center">
 
-| Certification | Status | Date |
-|--------------|--------|------|
-| 🏆 AWS Solutions Architect Associate | 🎯 In Progress | 2025 |
-| 🏆 Certified Kubernetes Administrator (CKA) | 🎯 Planned | 2025 |
-| 🏆 HashiCorp Terraform Associate | 🎯 Planned | 2025 |
-| 🏆 Docker Certified Associate | ✅ Completed | 2024 |
+## 🏆 Achievement Unlocked
+
+<img src="https://img.shields.io/badge/🎖️_Cloud_Architect-Level_85-gold?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚡_Pipeline_Master-Expert-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🐳_Container_Wizard-Legendary-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔒_Security_Champion-Elite-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📊_Metrics_Guru-Master-purple?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-yousfi.amine%40esprit.tn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousfi.amine@esprit.tn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amine_Yousfi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-yousfi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-pi-six-57.vercel.app/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+## 📈 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-## 📊 Contribution Activity
+<div align="center">
+
+## 🌟 Featured Open Source Contributions
+
+<a href="https://github.com/yourusername/repo1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
+<a href="https://github.com/yourusername/repo2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
+
+</div>
+
+---
 
 <div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true)
+
+## 🤝 Let's Connect & Collaborate
+
+<a href="mailto:yousfi.amine@esprit.tn">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/amine-yousfi">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://my-portfolio-pi-six-57.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://twitter.com/yourusername">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://medium.com/@yourusername">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 DevOps Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Quote" />
+
+### *"Automate the boring stuff, focus on the innovation"*
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
@@ -191,28 +353,18 @@ graph LR
 
 ---
 
-## 💬 DevOps Quote of the Day
-
 <div align="center">
 
-> *"The best way to predict the future is to automate it."*
-> 
-> — Anonymous DevOps Engineer
+### 📊 Profile Analytics
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=for-the-badge&label=VISITORS)
+![Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=00D9FF&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=00D9FF&labelColor=0D1117)
 
 ---
 
-<div align="center">
+### ⚡ *"Building scalable systems, one commit at a time"* ⚡
 
-### 🔧 Quick Stats
-
-![](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=blue)
-![](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=yellow)
-
-**⚡ "Deploying dreams into reality, one commit at a time" ⚡**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=ffffff" />
 
 </div>
