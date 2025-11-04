@@ -63,21 +63,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salesp07&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=salesp07&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salesp07&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=salesp07&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&layout=compact&theme=radical" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <br/>
 <hr/>
 
-## 🐍 DevOps Journey
+## 🐍 My Contributions
 
 <div align="center">
-  <h3>My DevOps Learning Path</h3>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
